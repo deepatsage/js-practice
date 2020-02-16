@@ -1,4 +1,4 @@
-function sum(x,y){
-    return x+y;
+function sum(x, y) {
+  return x + y;
 }
-sum(1,4);
+console.log(sum(1, 4));
